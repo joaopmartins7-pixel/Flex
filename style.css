@@ -7,7 +7,7 @@
     width: 600px;
     height: 200px;
     border-radius: 15px;
-    margin: 15px;
+    margin: 10px;
 }
 h1{
     color: aliceblue;
@@ -25,4 +25,29 @@ img{
     border: 3px solid aliceblue;
     border-radius: 100px;
     margin: 15px;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+    background-color: rgb(55, 65, 65);
+    width: 600px;
+    height: 250px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h2{
+    color: antiquewhite;
+    margin: 10px 5px;
+}
+
+.filho{
+    background-color: rgb(76, 105, 105);
+    margin: 0 10px;
+    border-radius: 10px;
 }
