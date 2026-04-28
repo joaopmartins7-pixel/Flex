@@ -1,0 +1,28 @@
+.perfil{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: rgb(55, 65, 65);
+    width: 600px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 15px;
+}
+h1{
+    color: aliceblue;
+    margin: 10px 5px;
+}
+p{
+    color:aliceblue;
+    margin: 5px;
+}
+a{
+    color: antiquewhite;
+    
+}
+img{
+    border: 3px solid aliceblue;
+    border-radius: 100px;
+    margin: 15px;
+}
